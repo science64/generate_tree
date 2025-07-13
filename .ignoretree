@@ -1,0 +1,18 @@
+.venv
+node_modules
+__pycache__
+.git
+Chemical_modifications_PD_SILAC
+backup
+logs
+Automatic_submissions_testing
+Details
+not_tested
+not_working_yet
+.aidigestignore
+.ignoretree
+NPM apps frontent start without docker.txt
+codebase.md
+folder_tree.txt
+generate_tree.py
+restore database 2025 if needed.txt
